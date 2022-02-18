@@ -28,7 +28,7 @@ print("Number of rows:",len(df.axes[0]))
 print("Number of columns:",len(df.axes[1]))
 ```
 ## OUTPUT:
-![output](csv9.png)
+![output](9.png)
 
 ## RESULT:
 Thus a python program is written to read the contents of a CSV file.
